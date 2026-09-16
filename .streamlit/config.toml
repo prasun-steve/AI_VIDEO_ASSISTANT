@@ -1,0 +1,3 @@
+[server]
+# Avoid Streamlit inspecting every optional Transformers module at startup.
+fileWatcherType = "none"
